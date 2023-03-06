@@ -15,6 +15,8 @@ In this project, we'll utilize a dataset for different data science-related jobs
 
 The dataset contains 245 records of anonymous salary information for various data science related jobs during 2020/21. It has been obtained from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries) and was originally collected by [ai-jobs.net](https://salaries.ai-jobs.net/).
 
+The blog for this project is posted in the following link
+
 ## Installation
 Python 3.6 or above should be used, you’ll need to install the following libraries:
 
@@ -37,8 +39,6 @@ Python 3.6 or above should be used, you’ll need to install the following libra
 1. Clone this repository to your local computer.
 
 2. Open the data_analysis_code.ipynb file with jupyter notebook, its self explanatory.
-
-The blog is written in the following link
 
 ## Acknowledgements
 
