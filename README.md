@@ -1,6 +1,6 @@
 # Data-Science-Blog-Post-Project
 
-![Screenshot 1](https://github.com/mbahaay/Data-Science-Blog-Post-Project/blob/main/data_science.jpeg)
+![Screenshot 1](https://github.com/mbahaay/Data-Science-Blog-Post-Project/blob/main/Datascience.jpeg)
 
 ## Project Description
 This project is part of Udacity's Data Scientist Nanodegree Program to show off my gained technical and analytical skills.
@@ -15,7 +15,7 @@ In this project, we'll utilize a dataset for different data science-related jobs
 
 The dataset contains 245 records of anonymous salary information for various data science related jobs during 2020/21. It has been obtained from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/data-science-jobs-salaries) and was originally collected by [ai-jobs.net](https://salaries.ai-jobs.net/).
 
-The blog for this project is posted in the following link
+The blog for this project is posted in the following [link](https://mbahaay.github.io/course-name/2023/03/06/Can-I-pursue-a-career-in-Data-Science.html)
 
 ## Installation
 Python 3.6 or above should be used, you’ll need to install the following libraries:
